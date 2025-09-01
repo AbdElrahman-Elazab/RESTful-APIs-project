@@ -15,7 +15,7 @@ namespace StudentApiClient
 
         static async Task Main(string[] args)
         {
-            httpClient.BaseAddress = new Uri("http://localhost:5245/api/Students/"); // Set this to the correct URI for your API
+            httpClient.BaseAddress = new Uri("http://localhost:5215/api/Students/"); // Set this to the correct URI for your API
 
             //this will show all students 
             await GetAllStudents();
