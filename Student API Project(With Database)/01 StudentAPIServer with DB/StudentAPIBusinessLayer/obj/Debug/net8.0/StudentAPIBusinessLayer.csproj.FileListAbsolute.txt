@@ -1,0 +1,30 @@
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.deps.json
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.pdb
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfo.cs
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentA.BCA95842.Up2Date
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\refint\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.pdb
+C:\Users\Abdulrahaman Elazab\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\ref\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.deps.json
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.pdb
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfo.cs
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentA.BCA95842.Up2Date
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\refint\StudentAPIBusinessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.pdb
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentAPIBusinessLayer\obj\Debug\net8.0\ref\StudentAPIBusinessLayer.dll

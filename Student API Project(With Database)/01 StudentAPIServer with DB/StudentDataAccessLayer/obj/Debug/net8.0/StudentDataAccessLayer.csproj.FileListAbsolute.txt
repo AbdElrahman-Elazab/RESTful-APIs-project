@@ -1,0 +1,24 @@
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.deps.json
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\refint\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Abdulrahaman Elazab\source\repos\StudentDataAccessLayer\obj\Debug\net8.0\ref\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.deps.json
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\refint\StudentDataAccessLayer.dll
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\Abdulrahaman Elazab\OneDrive\Desktop\Student API Project(With Database)\01 StudentAPIServer with DB\StudentDataAccessLayer\obj\Debug\net8.0\ref\StudentDataAccessLayer.dll
